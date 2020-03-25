@@ -10,4 +10,5 @@
   - **Gperf heap checker** https://gperftools.github.io/gperftools/heap_checker.html
   - **pprof** https://github.com/google/pprof
   - **leaks** https://developer.apple.com/library/archive/documentation/Performance/Conceptual/ManagingMemory/Articles/FindingLeaks.html [Mac OS only]
+  - https://github.com/koute/memory-profiler
   
